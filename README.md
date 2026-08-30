@@ -74,7 +74,7 @@
         <strong><a href="https://github.com/Wassimhfaiedh/TunisianVehicleSearch">Tunisian Vehicle Search</a></strong>
       </h3>
       <p align="center">
-        <img src="assets/tunisian-vehicle-search.jpg" width="100%" alt="Tunisian Vehicle Search project preview" />
+        <img src="assets/tunisian-vehicle-search.jpg" width="70%" alt="Tunisian Vehicle Search project preview" />
       </p>
       <p><strong>AI-powered vehicle search</strong> platform that detects <strong>vehicles</strong>, reads <strong>Tunisian license plates</strong>, and retrieves matches using <strong>text</strong>, <strong>image</strong>, or <strong>plate queries</strong>.</p>
       <p><code><strong>YOLO</strong></code> <code><strong>CLIP</strong></code> <code><strong>Plate Recognition</strong></code></p>
