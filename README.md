@@ -16,6 +16,7 @@
 ---
 
 ## <strong>About Me</strong>
+<h2 align="center">About Me</h2>
 
 <strong>AI Engineer</strong> from Tunisia building practical systems in <strong>Computer Vision</strong>, <strong>multimodal AI</strong>, and <strong>video understanding</strong>. I work on <strong>object detection</strong>, <strong>tracking</strong>, <strong>VLM/RAG</strong> applications, and <strong>efficient model deployment</strong>.
 
