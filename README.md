@@ -96,7 +96,7 @@
         <strong><a href="https://github.com/Wassimhfaiedh/AeroGuard-AI">AeroGuard AI</a></strong>
       </h3>
       <p align="center">
-        <img src="assets/aeroguard-ai.png" width="150%" alt="AeroGuard AI project preview" />
+        <img src="assets/aeroguard-ai.png" width="100%" alt="AeroGuard AI project preview" />
       </p>
       <p><strong>Real-time drone detection</strong> and <strong>tracking system</strong> with <strong>trajectory visualization</strong>, <strong>target zoom</strong>, <strong>detection logging</strong>, and an <strong>aerial monitoring HUD</strong>.</p>
       <p><code><strong>Drone Detection</strong></code> <code><strong>YOLO</strong></code> <code><strong>McByteTracker</strong></code></p>
