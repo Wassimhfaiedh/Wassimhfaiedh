@@ -14,15 +14,13 @@
 </div>
 
 ---
-
-## <strong>About Me</strong>
 <h2 align="center">About Me</h2>
 
 <strong>AI Engineer</strong> from Tunisia building practical systems in <strong>Computer Vision</strong>, <strong>multimodal AI</strong>, and <strong>video understanding</strong>. I work on <strong>object detection</strong>, <strong>tracking</strong>, <strong>VLM/RAG</strong> applications, and <strong>efficient model deployment</strong>.
 
 ---
 
-## <strong>Tech Stack</strong>
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -34,7 +32,7 @@
 
 ---
 
-## <strong>Featured AI Projects</strong>
+<h2 align="center">Featured AI Projects</h2>
 
 <table>
   <tr>
@@ -107,7 +105,7 @@
 
 ---
 
-## <strong>GitHub Activity</strong>
+<h2 align="center">GitHub Activity</h2>
 
 <div align="center">
 
