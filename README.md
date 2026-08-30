@@ -110,7 +110,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Wassimhfaiedh&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=github_dark_dimmed" alt="Wassim's GitHub statistics" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Wassimhfaiedh&theme=github_dark" alt="Wassim's GitHub statistics" />
 <img height="170" src="https://streak-stats.demolab.com?user=Wassimhfaiedh&hide_border=true&theme=github-dark-blue" alt="Wassim's GitHub contribution streak" />
 
 </div>
