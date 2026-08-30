@@ -64,7 +64,7 @@
         <strong><a href="https://github.com/Wassimhfaiedh/RetailShelfMonitor">Retail Shelf Monitor</a></strong>
       </h3>
       <p align="center">
-        <img src="assets/retail-shelf-monitor.png" width="100%" alt="Retail Shelf Monitor project preview" />
+        <img src="assets/retail-shelf-monitor.jpeg" width="100%" alt="Retail Shelf Monitor project preview" />
       </p>
       <p><strong>Computer vision system</strong> that detects <strong>products</strong> on retail shelves and supports <strong>visual shelf occupancy</strong> and <strong>inventory monitoring</strong>.</p>
       <p><code><strong>Retail AI</strong></code> <code><strong>Product Detection</strong></code> <code><strong>YOLO</strong></code></p>
@@ -74,7 +74,7 @@
         <strong><a href="https://github.com/Wassimhfaiedh/TunisianVehicleSearch">Tunisian Vehicle Search</a></strong>
       </h3>
       <p align="center">
-        <img src="assets/tunisian-vehicle-search.png" width="100%" alt="Tunisian Vehicle Search project preview" />
+        <img src="assets/tunisian-vehicle-search.jpg" width="100%" alt="Tunisian Vehicle Search project preview" />
       </p>
       <p><strong>AI-powered vehicle search</strong> platform that detects <strong>vehicles</strong>, reads <strong>Tunisian license plates</strong>, and retrieves matches using <strong>text</strong>, <strong>image</strong>, or <strong>plate queries</strong>.</p>
       <p><code><strong>YOLO</strong></code> <code><strong>CLIP</strong></code> <code><strong>Plate Recognition</strong></code></p>
