@@ -38,8 +38,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">
-        <strong><a href="https://github.com/Wassimhfaiedh/RGBTYOLO--Dual-Input-YOLO26-for-RGB-Thermal-Object-Detection">RGB-Thermal Multispectral YOLO</a></strong>
-      </h3>
+        <strong><a href="">Multispectral-Object-Detection-YOLO26</a></strong>https://github.com/Wassimhfaiedh/Multispectral-Object-Detection-YOLO26-Cross-Modal-RGB-Thermal-Fusion</h3>
       <p align="center">
         <img src="assets/rgbt-yolo.png" width="100%" alt="RGB-Thermal Multispectral YOLO project preview" />
       </p>
